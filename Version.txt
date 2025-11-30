@@ -1,4 +1,4 @@
-app_version=5.0.9
+app_version=5.0.10
 snd_version=5.0.6
 ntc_version=5.0.3
 man_version=5.0.4
